@@ -12,5 +12,10 @@ La web valida las contraseñas comparandolas con la data almacenada en una db ,
 
 
 dependiendo del rol tendras una vista u otra , el rol de director te da la posibilidad
-de cambiar las los datos , como lo son su curso , su instructor o su promedio final :v 
+de cambiar las los datos de un alumno
+para empezar seleccionas el curso en el que se ubica dicho alumno y despues tienes la posibilidad de editar sus datos
+, como lo son su curso , su instructor o su promedio final :v 
 aparece
+
+<img width="1080" height="720" alt="image" src="https://github.com/user-attachments/assets/d98a53ce-3cb3-4dd6-bf52-924c9876406d" />
+
