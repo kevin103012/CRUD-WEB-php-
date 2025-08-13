@@ -21,4 +21,9 @@ aparece
 
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/8354d6b7-a410-400b-91ea-578e32a9cf24" /> 
 <br>
-al editar te apareen
+al editar te aparecera el siguiente menu 
+<br>
+<img width="599" height="474" alt="image" src="https://github.com/user-attachments/assets/23586666-85c1-493e-8b3e-6388609f0d49" /> 
+<br>
+las opciones editables seran el promedio curso e instructor , el id y nombre no podran ser modificados
+
