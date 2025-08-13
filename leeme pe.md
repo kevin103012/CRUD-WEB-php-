@@ -23,7 +23,7 @@ aparece
 <br>
 al editar te aparecera el siguiente menu 
 <br>
-<img width="599" height="474" style="margin: 0 100px" alt="image" src="https://github.com/user-attachments/assets/23586666-85c1-493e-8b3e-6388609f0d49" /> 
+<img width="599" height="474" style="margin: 0 200px" alt="image" src="https://github.com/user-attachments/assets/23586666-85c1-493e-8b3e-6388609f0d49" /> 
 <br>
 las opciones editables seran el promedio curso e instructor , el id y nombre no podran ser modificados
 
