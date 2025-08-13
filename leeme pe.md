@@ -27,6 +27,8 @@ al editar te aparecera el siguiente menu
 <br>
 las opciones editables seran el promedio curso e instructor , el id y nombre no podran ser modificados
 y tambien existe la opcion de eliminar.
-
+<br>
 Para la vista de ALUMNO
-
+<br> 
+es basicamente un panel con la opcion de seleccionar el curso (accion obligatoria) y luego el ingreso de las 4 notas
+para registrar en la bd el promedio de dicho alumno.
