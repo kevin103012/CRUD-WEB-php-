@@ -19,4 +19,4 @@ aparece
 
 <img width="1080" height="720" alt="image" src="https://github.com/user-attachments/assets/d98a53ce-3cb3-4dd6-bf52-924c9876406d" />
 
-<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/8354d6b7-a410-400b-91ea-578e32a9cf24" />
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/8354d6b7-a410-400b-91ea-578e32a9cf24" />
